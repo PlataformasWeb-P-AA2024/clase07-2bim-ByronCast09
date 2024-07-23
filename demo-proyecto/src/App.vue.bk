@@ -7,13 +7,13 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import ListaEstudiantes from './components/ListaEstudiantes.vue'
+import ListaEdificios from './components/ListaEdificios.vue'
 
 export default {
   name: 'App',
   components: {
     HelloWorld,
-    ListaEstudiantes
+    ListaEdificios
   }
 }
 </script>
